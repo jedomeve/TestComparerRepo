@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Name": "Xiaomi Redmi Note 14 Pro +",
+    "BrandId": 1,
+    "description": "Xiaomi Redmi Note 14 Pro +, el celular gama alta de los gama baja",
+    "CategoryId": 1,
+    "SubCategoryId": 2,
+    "dateModel": 2010,
+    "price": 10000,
+    "priceUnit": "USD"
+  },
+  {
+    "Id": 2,
+    "Name": "Xiaomi Redmi Note 14",
+    "BrandId": 1,
+    "description": "Xiaomi Redmi Note 14 , un buen gama media",
+    "CategoryId": 1,
+    "SubCategoryId": 2,
+    "dateModel": 2011,
+    "price": 700,
+    "priceUnit": "USD"
+  }
+]

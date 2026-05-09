@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "Id": 1,
+      "Name": "Tecnologia",
+      "Description": "Dispositivos moviles y smartphone de gama baja, media y alta"
+    },
+    {
+      "Id": 2,
+      "Name": "Smartphones",
+      "Description": "Dispositivos moviles y smartphone de gama baja, media y alta",
+      "ParentCategory":  1
+    },
+    {
+      "Id": 3,
+      "Name": "Televisores",
+      "Description": "Televisores LEDs, Plasma, etc"
+    }
+  ]
+}

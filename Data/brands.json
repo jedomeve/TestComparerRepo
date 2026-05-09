@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "Id": 1,
+      "Name": "Xiaomi",
+      "ImageBrand": "http://image.png"
+    },
+    {
+      "Id": 2,
+      "Name": "Samsung",
+      "ImageBrand": "http://image.png"
+    }
+  ]
+}

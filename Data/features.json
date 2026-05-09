@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "Almacenamiento",
+    "Description": "Define la capacidad que tiene para almacenar información",
+    "Type": "Numeric",
+    "Unit": "GB"
+  },
+  {
+    "Id": 2,
+    "Name": "Memoria RAM",
+    "Description": "Define la capacidad de memoria RAM",
+    "Type": "Numeric",
+    "Unit": "GB"
+  }
+]
